@@ -1,6 +1,6 @@
 {
 	"name": "@flexure/base-ui",
-	"version": "0.1.0-beta.0",
+	"version": "0.1.0",
 	"description": "Library for App",
 	"source": "src/index.ts",
 	"main": "dist/index.js",
